@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1046311335128",
+    "project_id": "volv-ui",
+    "storage_bucket": "volv-ui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046311335128:android:658c5720ff49e0cb6713ad",
+        "android_client_info": {
+          "package_name": "com.example.volv_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046311335128-cpf7ghdp4h8vmlbbvq83e05cq4hlft6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.volv_ui",
+            "certificate_hash": "2818c2ecf40bf2f1689c090650ce11a143733262"
+          }
+        },
+        {
+          "client_id": "1046311335128-d7mb9td08n2f7f2nthp358ip64c067dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe5wpw7Rb702PcMr4-LeLgf9EylLiax1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046311335128-d7mb9td08n2f7f2nthp358ip64c067dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
